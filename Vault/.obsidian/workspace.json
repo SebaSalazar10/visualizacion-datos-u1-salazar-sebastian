@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6fdb4b7eecfe35b",
+        "id": "c1b816e1b38376cd",
         "type": "tabs",
         "children": [
           {
-            "id": "28bbef067f2c9528",
+            "id": "1056a3375d7d526e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Mapa General de Visualización de Datos.md",
+                "file": "Conceptos/Storytelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa General de Visualización de Datos"
+              "title": "Storytelling"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Mapa General de Visualización de Datos.md",
+                "file": "Conceptos/Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/Mapa General de Visualización de Datos.md",
+                "file": "Conceptos/Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Mapa General de Visualización de Datos.md",
+                "file": "Conceptos/Storytelling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,9 +188,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "28bbef067f2c9528",
+  "active": "1056a3375d7d526e",
   "lastOpenFiles": [
-    "Sin título.md",
-    "MOC/Mapa General de Visualización de Datos.md"
+    "Conceptos/Visualización de Datos.md",
+    "Conceptos/Storytelling.md",
+    "Conceptos/Conocimiento.md",
+    "Conceptos/Información.md",
+    "Conceptos/Datos.md",
+    "Tipos de Datos.md",
+    "MOC/Mapa General de Visualización de Datos.md",
+    "Sin título.md"
   ]
 }
