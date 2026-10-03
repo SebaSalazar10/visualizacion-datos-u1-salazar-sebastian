@@ -1,0 +1,1 @@
+Esta nota será el centro de navegación de toda la bóveda
