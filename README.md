@@ -48,6 +48,8 @@ A continuación, se presenta la red interconectada de nuestra base de conocimien
 
 
 
+
+
 !\[Captura del Graph View](Evidencias/GraphView.png)
 
 
