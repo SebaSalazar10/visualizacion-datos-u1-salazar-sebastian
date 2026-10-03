@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "24a9d1026bd04b95",
+        "id": "68dcd2ba48bb4ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "e25173650e222fb5",
+            "id": "24f77a6fff6bc880",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "canvas",
+              "state": {
+                "file": "MapaConceptual/Mapa_Conceptual_Integrador..canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": -60,
+                  "zoom": -1.197939377611909
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa_Conceptual_Integrador."
             }
           }
         ]
@@ -79,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cc3c398b733168b5",
@@ -181,6 +188,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e25173650e222fb5",
-  "lastOpenFiles": []
+  "active": "24f77a6fff6bc880",
+  "lastOpenFiles": [
+    "MapaConceptual/Mapa_Conceptual_Integrador..png",
+    "MapaConceptual/Mapa_Conceptual_Integrador..canvas"
+  ]
 }
